@@ -1,4 +1,5 @@
-body {
-    color : green;
-    background-color: orange;
-}
+@import "base";
+@import "components";
+@import "typhography";
+
+@import "layout";   
